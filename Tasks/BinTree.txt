@@ -1,0 +1,8 @@
+class Node
+{
+	double value;
+	Node Left;
+	Node Right;
+}
+
+string Ser(Node root);
